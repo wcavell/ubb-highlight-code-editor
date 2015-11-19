@@ -1,0 +1,1 @@
+本软件使用C#编写，采用WPF4界面库，需要.Net framework 4.0.
